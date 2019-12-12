@@ -1,0 +1,32 @@
+<?php
+
+   include("connection.php");
+   error_reporting(0);
+   ?>
+
+
+
+
+
+
+<!DOCTYPE html>
+
+
+
+<html>
+<head>
+   <title> Registration </title>
+</head>
+   <fieldset> 
+      <legend> Registration </legend>
+	  <form action=" " method="$_GET">
+       	  
+	  Id:
+	  <input type="number" name="number" value=""/><br><br>
+	  Password:
+	  <input type="password" name="password" value=""/><br><br>
+	  Confirm Password:
+	  <input type="password" name="password" value=""/><br><br>
+	  Name:
+	  <input type="nu" name="number" value=""/><br><br>
+	  <input type="number" name="number" value=""/><br><br>
